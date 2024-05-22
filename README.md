@@ -1,20 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kimutai Too</h1>
-<h3 align="center">I am a freelance designer and developer</h3>
+<h1 align="left">Hi 👋, I'm Kimutai Too</h1>
+<h3 align="left">Designer and Developer</h3>
 
-- 🔭 I’m currently working on **different front-end projects**
-
-- 🌱 I’m currently learning **NODEJS, MONGODB AND CYBERSECURITY**
 
 - 👯 I’m looking to collaborate **with different creative front-end developers**
-
 - 👨‍💻 All of my projects are available at [https://kimutaitoo.vercel.app/](https://kimutaitoo.vercel.app/)
-
-- 💬 Ask me about **ReactJs & Javascript in general**
-
 - 📫 How to reach me **tookim4@gmail.com**
-
 - 📄 Know about my experiences [https://www.canva.com/design/DAFxUy9ezUY/view](https://www.canva.com/design/DAFxUy9ezUY/view)
-
 - ⚡ Fun fact **I love writing and have written several cybersecurity articles. I also love editing cool stuff.**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,4 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tookim4&show_icons=true&locale=en&layout=compact" alt="tookim4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tookim4&" alt="tookim4" /></p>
